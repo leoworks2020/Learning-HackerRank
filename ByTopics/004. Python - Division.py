@@ -34,7 +34,7 @@ Sample Output 0
 1.33333333333
 -------------------------------------------------------------------
 Challenge Start Date:       2023-07-10
-Challenge Completion Date:
+Challenge Completion Date:  2023-07-10
 """
 a = int(input())
 b = int(input())
